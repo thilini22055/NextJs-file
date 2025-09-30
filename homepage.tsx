@@ -34,7 +34,7 @@ export default function Home() {
              services, learn about our mission, and discover how we can help you
          achieve your goals—faster, smarter, and better.</p>
   <br/><br/><br/>
-    < Link href="/signin"><button className={style.but1}>register</button></Link> < Link href="/signin"> <button className={style.but2}>login in</button></Link>
+    < Link href="/signin"><button className={style.but10}>register</button></Link> < Link href="/signin"> <button className={style.but20}>login in</button></Link>
     </div>
     
     
