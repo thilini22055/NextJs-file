@@ -6,7 +6,7 @@ import style from './Home.module.css';
 export default function Home() {
   return (
     <div className={style.cover}>
-      <nav className={style.navi}>
+      <nav className={style.navi}>   //navigation bar.it add all page
           <Link href="/">Home</Link> {" "}
           <Link href="/about">About Us</Link> {" "}
           <Link href="/contact">Contact</Link> {" "}
