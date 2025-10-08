@@ -22,7 +22,8 @@ export default function Home() {
        personalized content, manage your preferences,and stay connected with all our latest updates. 
         Your account helps you keep track of your activity, access exclusive features, and enjoy a more secure,
          customized experience. If you’re having trouble logging in,feel free to use the “Forgot Password” link below. New here? You can easily 
-      create an account in just a few steps.</p>
+      create an account in just a few steps.</p>   //this welcome phara
+      
       <p className={style.p}>At Sasiko Insitute, we are dedicated to delivering 
         innovative digital solutions that empower individuals
         and businesses to thrive in a connected world. Whether
