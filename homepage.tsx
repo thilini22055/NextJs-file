@@ -15,7 +15,7 @@ export default function Home() {
           <Link href="/paymentmethod">Payment Method</Link>
         </nav>
  
-      <h1 className={style.title}>Sasiko Insitute Education Class</h1>
+      <h1 className={style.title}>Sasiko Insitute Education Class</h1>   // class Name
     <h1 className={style.h1}>Welcome to Our Sasiko Insitute</h1>
     
     <p className={style.p}>Welcome back! We're glad to see you again.Please log in to your account to access 
